@@ -17,13 +17,14 @@ def info_detail(info: Info) -> rx.Component:
                     size=Size.SMALL.value,
                     color_scheme="gray"
                 ),
+                # ✅ Aquí va la corrección: convertir la lista a booleano
                 rx.cond(
-                    info.technologies,
+                    bool(info.technologies),
                     rx.flex(
                         *[
                             rx.badge(
-                                rx.box(class_name=technology.icon),
-                                technology.name,
+                                rx.box(class_name=str(technology.icon)),
+                                str(technology.name),
                                 color_scheme="gray"
                             )
                             for technology in info.technologies
