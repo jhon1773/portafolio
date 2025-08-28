@@ -73,8 +73,8 @@
         },
         {
             "icon": "bug-off",
-            "title": "software en node.js",
-            "subtitle": "node",
+            "title": "software tutorias",
+            "subtitle": "proyecto en node",
             "description": "proyecto realizado en typeScript con modulos node",
             "technologies": [
                 {
