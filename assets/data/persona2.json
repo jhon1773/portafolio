@@ -56,7 +56,7 @@
       "icon": "bar-chart-4",
       "title": "Software random",
       "subtitle": "Software ",
-      "description": ".",
+      "description": "Un proyecto diferente",
       "technologies": [
         {
           "icon": "devicon-python-plain",
@@ -73,7 +73,7 @@
     },
     {
       "icon": "bug-off",
-      "title": "",
+      "title": "No se que poner aca",
       "subtitle": "",
       "description": "",
       "technologies": [
