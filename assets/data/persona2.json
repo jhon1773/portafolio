@@ -1,128 +1,128 @@
 {
-    "title": "persona1 | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
-    "media": {
-        "email": "neo@metacortex.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+  "title": "Cristian Pineda | Portafolio",
+  "description": "Soy Cristian Ingeniero de sistemas .",
+  "image": "/avatar.jpg",
+  "avatar": "/avatar.jpg",
+  "name": "Cristian Pineda",
+  "skill": "Ingeniero de sistemas",
+  "location": "Universidad Santot tomas tunja",
+  "media": {
+    "email": "cristian.pinedam@usantoto.edu.cocom",
+    "cv": "/data/cv.pdf",
+    "github": "https://github.com/DavidEastwood",
+    "likedin": ""
+  },
+  "about": "Ingeniero de sistemas",
+  "technologies": [
+    {
+      "icon": "devicon-devicon-plain",
+      "name": "Binario"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
-    "technologies": [
+    {
+      "icon": "devicon-devicon-plain",
+      "name": "Ensamblador"
+    },
+    {
+      "icon": "devicon-devicon-plain",
+      "name": "COBOL"
+    },
+    {
+      "icon": "devicon-c-plain",
+      "name": "C"
+    },
+    {
+      "icon": "devicon-python-plain",
+      "name": "Python"
+    }
+  ],
+  "experience": [
+    {
+      "icon": "terminal",
+      "title": "React",
+      "subtitle": "Programador",
+      "description": "PTengo experiencia en react",
+      "date": "2024 - Actualidad"
+    },
+    {
+      "icon": "rabbit",
+      "title": "Java",
+      "subtitle": "Desarrollo",
+      "description": "Tengo experiencia en desarrollo en java",
+      "date": "2021 - Actualidad"
+    }
+  ],
+  "projects": [
+    {
+      "icon": "bar-chart-4",
+      "title": "Software random",
+      "subtitle": "Software ",
+      "description": ".",
+      "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+          "icon": "devicon-python-plain",
+          "name": "Python"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
-        },
-        {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+          "icon": "devicon-django-plain",
+          "name": "Django"
         }
-    ],
-    "experience": [
+      ],
+      "image": "",
+      "url": "",
+      "github": ""
+    },
+    {
+      "icon": "bug-off",
+      "title": "",
+      "subtitle": "",
+      "description": "",
+      "technologies": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
-        },
-        {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+          "icon": "",
+          "name": ""
         }
-    ],
-    "projects": [
-        {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
-            "technologies": [
-                {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
-                },
-                {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
-                }
-            ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
-                }
-            ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
-        }
-    ],
-    "training": [
-        {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        },
-        {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        }
-    ],
-    "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
-        }
-    ]
+      ],
+      "image": "",
+      "url": "",
+      "github": ""
+    }
+  ],
+  "training": [
+    {
+      "icon": "backpack",
+      "title": "Colegio de Boyaca",
+      "subtitle": "Educacion primaria y secundaria",
+      "description": "Aprendí cosas.",
+      "date": "2008-2020",
+      "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+    },
+    {
+      "icon": "graduation-cap",
+      "title": "Universidad Santo Tomas",
+      "subtitle": "Noveno semestre",
+      "description": "Aprendí más cosas.",
+      "date": "2021 - actualidad",
+      "certificate": ""
+    }
+  ],
+  "extras": [
+    {
+      "image": "",
+      "title": "",
+      "description": "",
+      "url": ""
+    },
+    {
+      "image": "",
+      "title": "",
+      "description": "",
+      "url": ""
+    },
+    {
+      "image": "",
+      "title": "",
+      "description": "",
+      "url": ""
+    }
+  ]
 }
