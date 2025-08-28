@@ -1,30 +1,22 @@
 {
-    "title": "persona1 | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "title": "Kevin | Portafolio",
+    "description": "prueba :D",
+    "image": "/foto x.jpg",
+    "avatar": "/foto x.jpg",
+    "name": "Kevin Vega",
+    "skill": "Programador de software",
+    "location": "tunja boyaca",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "Kevin.vega@usantoto.edu.co",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/jhon1773",
+        "likedin": "no tengo :("
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy un programador de la universidad Santo Tomas seccional tunja.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
-            "name": "Binario"
-        },
-        {
-            "icon": "devicon-devicon-plain",
             "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
         },
         {
             "icon": "devicon-c-plain",
@@ -33,96 +25,87 @@
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
         }
     ],
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "title": "Universidad Santo Tomas",
+            "subtitle": "Desarrollador de proyectos academicos",
+            "description": "desarrollador de aplicativos y codigos para multiples propositos",
+            "date": "2022 - Actualidad"
         },
         {
             "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "title": "Proyecto Freelance – Gestion de Inventario",
+            "subtitle": "Desarrollador Backend",
+            "description": "Desarrollador de un sistema de gestión de inventario.",
+            "date": "2023 - 2024"
         }
     ],
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Software python",
+            "subtitle": "software de mi propiedad",
+            "description": "software en python implementado con Flask y html con encriptamiento de seguridad",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-html-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-flask-plain",
+                    "name": "Flask"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "image": "/universidad santotomas.jpg",
+            "url": "link de netlifly",
+            "github": "https://github.com/jhon1773/proyectopython"
         },
         {
             "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "title": "software en node.js",
+            "subtitle": "node",
+            "description": "proyecto realizado en typeScript con modulos node",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-TypeScript-plain",
+                    "name": "TypeScript"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "/uni 2.jpg",
+            "url": "otro link de un desplegador como netlifly",
+            "github": "https://github.com/jhon1773/pagina-halo"
         }
     ],
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "institución educativa san jerónimo emiliani",
+            "subtitle": "un colegio :b",
+            "description": "institucion educativa donde curse la basica secundaria",
+            "date": "2017 - 2021",
+            "certificate": "https://www.colegioemiliani.edu.co/"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Universidad Santo Tomás",
+            "subtitle": "una universidad :b",
+            "description": "institucion educativa donde donde estoy cursando mis estudios superioress",
+            "date": "2022 - Actualidad",
+            "certificate": "https://usantotomas.edu.co/inicio"
         }
     ],
     "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
-        }
+        
     ]
 }

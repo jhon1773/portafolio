@@ -12,6 +12,7 @@
 Desarrollado utilizando [Python](https://python.org) y [Reflex](https://reflex.dev), disponible para desplegar de forma estática (HTML, CSS, JS).
 
 #### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
+
 > ##### Si consideras útil el proyecto, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
 ## Portafolio
@@ -32,14 +33,14 @@ Plantilla web para programadores desarrollada con la premisa de crear el "portaf
 
 <a href="./demo.png"><img src="./demo.png" style="height: 50%; width:50%;"/></a>
 
-* Avatar y datos principales
-* Información de contacto, CV y redes
-* Sobre mí
-* Tecnologías
-* Experiencia
-* Proyectos
-* Formación
-* Extra
+- Avatar y datos principales
+- Información de contacto, CV y redes
+- Sobre mí
+- Tecnologías
+- Experiencia
+- Proyectos
+- Formación
+- Extra
 
 **Demo: [https://portafoliotemplate.dev](https://portafoliotemplate.dev)**
 
@@ -61,14 +62,14 @@ Clona el proyecto, crea un entorno virtual, instala Reflex y ejecútalo para acc
 
 Principalmente puedes configurar el contenido y el aspecto gráfico del sitio web.
 
-* Contenido: Edita el archivo [data.json](./assets/data/data.json) con la información de tu portafolio.
-	* Campos opcionales dentro de `experience`, `projects` y `training`: *technologies, date, certificate, image, url y github*.
-	* Los iconos generales se corresponden con los identificadores de [Lucide icons](https://lucide.dev/icons/).
-	* Los iconos de las tecnologías se corresponden con los identificadores de [Devicon](https://devicon.dev/).
-* Tema: Edita el tema gráfico de la web.
-	* Descomenta la línea `rx.theme_panel()` en `portafolio.py`. 
-	* Inicia el proyecto, selecciona la configuración que quieras y pulsa `Copy Theme`.
-	* Añade esa información dentro de `theme=rx.theme()` en `portafolio.py`.
+- Contenido: Edita el archivo [data.json](./assets/data/data.json) con la información de tu portafolio.
+  - Campos opcionales dentro de `experience`, `projects` y `training`: _technologies, date, certificate, image, url y github_.
+  - Los iconos generales se corresponden con los identificadores de [Lucide icons](https://lucide.dev/icons/).
+  - Los iconos de las tecnologías se corresponden con los identificadores de [Devicon](https://devicon.dev/).
+- Tema: Edita el tema gráfico de la web.
+  - Descomenta la línea `rx.theme_panel()` en `portafolio.py`.
+  - Inicia el proyecto, selecciona la configuración que quieras y pulsa `Copy Theme`.
+  - Añade esa información dentro de `theme=rx.theme()` en `portafolio.py`.
 
 ## Despliegue
 
@@ -81,6 +82,7 @@ Se configura el despliegue automático desde los archivos [vercel.json](./vercel
 Aquí tienes la [demo](https://portafoliotemplate.dev/).
 
 ## Curso de Python desde cero
+
 ### Aprende Python desde sus fundamentos
 
 <a href="https://github.com/mouredev/hello-python"><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg"/></a>
@@ -96,10 +98,11 @@ Si quieres aprender desde cero, tienes gratis todos los tutoriales que he creado
 #### Te presento [mouredev pro](https://mouredev.pro), mi proyecto más importante para ayudarte a estudiar programación y desarrollo de software de manera diferente.
 
 > **¿Buscas un extra?** Aquí encontrarás mis cursos editados por lecciones individuales, para avanzar a tu ritmo y guardar el progreso. También dispondrás de ejercicios y correcciones, test para validar tus conocimientos, examen y certificado público de finalización, soporte, foro de estudiantes, reunionnes grupales, cursos exclusivos y mucho más.
-> 
+>
 > Entra en **[mouredev.pro](https://mouredev.pro)** y utiliza el cupón **"PRO"** con un 10% de descuento en tu primera suscripción.
 
 ## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
+
 ### Freelance full-stack iOS & Android engineer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
@@ -116,3 +119,5 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mej
 [![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+
+# !!! IMPORTANTE, CAMBIAR DE PORTAFOLIO EN EL data.py
